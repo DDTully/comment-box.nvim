@@ -83,6 +83,7 @@ local languages = {
   plantuml = { "'%s", "/'%s'/" },
   purescript = { "--%s", "{-%s-}" },
   python = { "#%s", "" },
+  ps1 = { "#%s", "" },
   php = { "//%s", "/*%s*/" },
   prisma = { "//%s", "" },
   proto = { "//%s", "/*%s*/" },
